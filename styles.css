@@ -5,11 +5,11 @@
 }
 p::before{
 	content:"Before Element ";
-	color:red;
+	color:rgb(255,0,0);
 	font-size:34px;
 }
 p::after{
 	content:" After Element";
-	color:red;
+	color:rgb(255,0,0);
 	font-size:34px;
 }
