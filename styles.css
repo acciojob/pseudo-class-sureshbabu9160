@@ -2,6 +2,7 @@
 #container{
 	margin:20px;
 	font-size:20px;
+	color:rgb(0,0,0);
 }
 p::before{
 	content:"Before Element ";
